@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome ProtoCommerce",
+  "Type": "App",
+  "Id": "FkNkXJONfUGJJ1CFxjGwHg",
+  "Reference": "87ukTVZLBkm-2h6w-S6zdA/FkNkXJONfUGJJ1CFxjGwHg",
+  "Created": "2024-11-26T00:42:23.9444568Z",
+  "Updated": "2024-11-26T00:42:23.9444568Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

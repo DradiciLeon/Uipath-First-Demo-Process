@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PvhGepCdFku7aPCqy6l3yg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.ro/search" CVScreenId="b452ba71-2da8-437f-b316-947e85126697" CvTextArea="251, 431, 510, 47" CvType="AnyWordGroup" DesignTimeRectangle="253, 416, 815, 86" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='rso' tag='DIV' type='' class='ayqGOc kno-fb-ctx KBXm4e' /&gt;" Guid="c8d206e8-9e27-48f9-a8f0-dcc02600d1dd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='india gdp - Căutare Google' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f42743c9d11988846320423ecd6a3465.png" xmlns="">0NR1R_r28fEKGsfoO9lxzFg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

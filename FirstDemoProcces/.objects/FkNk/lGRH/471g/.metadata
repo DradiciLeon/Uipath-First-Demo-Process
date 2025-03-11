@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome ProtoCommerce",
+  "Type": "Screen",
+  "Id": "471gSM0OOUK9-wttyw23cg",
+  "Reference": "87ukTVZLBkm-2h6w-S6zdA/471gSM0OOUK9-wttyw23cg",
+  "ParentRef": "87ukTVZLBkm-2h6w-S6zdA/lGRHXmhOJUGKY85JCZ7oJA",
+  "Created": "2024-11-26T00:42:23.9957572Z",
+  "Updated": "2024-11-26T00:42:23.9957572Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

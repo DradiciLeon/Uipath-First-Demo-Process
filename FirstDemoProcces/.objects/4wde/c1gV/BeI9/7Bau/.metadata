@@ -1,0 +1,14 @@
+﻿{
+  "Name": " Copyright (C) 2011 …",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "7BauM0vZ2UqJWlnQshqrNQ",
+  "Reference": "87ukTVZLBkm-2h6w-S6zdA/7BauM0vZ2UqJWlnQshqrNQ",
+  "ParentRef": "87ukTVZLBkm-2h6w-S6zdA/BeI9Z-od1kWCkt0vuB5k_g",
+  "Created": "2024-10-20T23:09:14.645578Z",
+  "Updated": "2024-10-20T23:09:14.645578Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "FirstDemoProcces",
+  "projectId": "09904eab-3c1d-44ce-9147-cc1dbdfd0bf6",
+  "description": "Blank Process",
+  "main": "SortFilter.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.24.2]",
+    "UiPath.Mail.Activities": "[1.23.11]",
+    "UiPath.PDF.Activities": "[3.20.1]",
+    "UiPath.System.Activities": "[24.10.6]",
+    "UiPath.Testing.Activities": "[24.10.3]",
+    "UiPath.UIAutomation.Activities": "[24.10.6]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "24.10.5.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "8af0c57a-4963-4297-b6dd-4f2410747180",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "GdpCheckRobot.xaml",
+      "uniqueId": "0af74af4-5ac5-4086-9f13-dfdeff399056",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "DataScrapping.xaml",
+      "uniqueId": "7f7e92ef-03b2-4042-9703-803882b15a27",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "ExcelRobot.xaml",
+      "uniqueId": "e64254ea-3dae-43e7-9876-573c585dd8dd",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "InvoiceExtractPDF.xaml",
+      "uniqueId": "e2712e1a-ef13-465d-ba0c-7e82e36b36a7",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "InvoiceExtract.xaml",
+      "uniqueId": "f03ca7b2-4b60-4c8a-809f-8c2cfb4a6c33",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "AutomationRunner.xaml",
+      "uniqueId": "7dfba8c0-fe7e-4a48-aa69-0547e79861d2",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "MailRobot.xaml",
+      "uniqueId": "701e57a8-d9fb-4e2a-97f2-577ff0ec622b",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "SortFilter.xaml",
+      "uniqueId": "0426140a-37cc-452f-a89c-bc5025f37858",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

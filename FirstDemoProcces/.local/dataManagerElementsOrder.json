@@ -1,0 +1,154 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NoteName&"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Flowchart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NoteName&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "DataScrapping.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NoteName&86e26bb8-314a-49e5-b3de-5740aadeb3d1",
+        "xxx&Sequence_4",
+        "strExtract&Sequence_4",
+        "img&Sequence_4",
+        "webText&Sequence_3",
+        "textImage&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GdpCheckRobot.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "country&Flowchart_1",
+        "gdpActualNumber&Flowchart_1",
+        "GDPValue&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ExcelRobot.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "counter&Sequence_5",
+        "updatedFee&Sequence_7",
+        "id&Sequence_4",
+        "NoteName&9f24499c-63fe-4f09-a7a2-688f6727cade",
+        "rrd&Sequence_4",
+        "RC&Sequence_2",
+        "rr&Sequence_2",
+        "odt&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "InvoiceExtractPDF.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NoteName&517e4f4d-7a8c-42de-927f-7c58c5386403",
+        "pdfTextExtract&Sequence_1",
+        "arrayText&Sequence_1",
+        "pdfTextImage&Sequence_2",
+        "arrayTextOCR&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "InvoiceExtract.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "counter&Sequence_1",
+        "selectFolder&Sequence_2",
+        "files&Sequence_2",
+        "invoice&Sequence_3",
+        "amount&Sequence_3",
+        "rr&Sequence_9"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "D:/UiPath/Snippets/Windows/SnippetsVBasic/Snippets/Loops/For Each File in Folder.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "selectFolder&Sequence_1",
+        "files&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AutomationRunner.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NoteName&86e26bb8-314a-49e5-b3de-5740aadeb3d1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "MailRobot.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "pwd&Flowchart_1",
+        "mailList&Sequence_1",
+        "NoteName&33cc8b8c-0d7b-4beb-88a2-05b9a8e73ef6"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SortFilter.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "extractedData&Sequence_1",
+        "data&Sequence_5",
+        "EmployeeRange&Sequence_5",
+        "counter&Sequence_6",
+        "designation&Sequence_17",
+        "designation&Sequence_10",
+        "NoteName&86e26bb8-314a-49e5-b3de-5740aadeb3d1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

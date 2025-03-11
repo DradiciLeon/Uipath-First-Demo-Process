@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0bENOmD9sESiClmvgVzQuw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rahulshettyacademy.com/angularpractice" CVScreenId="1a407724-f601-413a-a453-a65e951d906b" CvElementArea="264, 443, 1393, 51" CvType="InputBox" DesignTimeRectangle="265, 446, 1387, 47" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='form-control ng-untouched ng-pristine ng-invalid' aaname='' /&gt;" Guid="3d7a2fc3-d655-4729-9c4b-da1e7a83408e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ProtoCommerce' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1a407724-f601-413a-a453-a65e951d906b" CvTextArea="264, 412, 53, 17" CvTextArgument="Name" CvType="Text" DesignTimeRectangle="265, 406, 53, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Name' check:innerText='Name' /&gt;" Guid="65f17086-eb27-45d9-9a43-7fa66a1e3eae" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="30460779bc2584c0008b60b50de2852d.png" xmlns="">0DdRvMiYi00iSuYGCjwH4Wg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Document1 - Microsoft Word (Product Activatio(1)",
+  "Type": "Screen",
+  "Id": "FpLU3tPQkkukSMtzaTPHNg",
+  "Reference": "87ukTVZLBkm-2h6w-S6zdA/FpLU3tPQkkukSMtzaTPHNg",
+  "ParentRef": "87ukTVZLBkm-2h6w-S6zdA/f4G_ZokFf0WuINlHNSRM_g",
+  "Created": "2024-10-20T23:19:23.3905563Z",
+  "Updated": "2024-10-20T23:19:23.3905563Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

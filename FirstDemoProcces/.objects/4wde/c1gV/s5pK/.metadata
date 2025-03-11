@@ -1,0 +1,13 @@
+﻿{
+  "Name": "HELLO.txt - Notepad",
+  "Type": "Screen",
+  "Id": "s5pK64bNykWOGIwME48wQQ",
+  "Reference": "87ukTVZLBkm-2h6w-S6zdA/s5pK64bNykWOGIwME48wQQ",
+  "ParentRef": "87ukTVZLBkm-2h6w-S6zdA/c1gVIp6EcUyX8jRhiF8srw",
+  "Created": "2024-10-21T18:01:32.3936196Z",
+  "Updated": "2024-10-21T18:01:32.3936196Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

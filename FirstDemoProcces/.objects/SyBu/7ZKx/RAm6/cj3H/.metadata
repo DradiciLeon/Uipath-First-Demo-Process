@@ -1,0 +1,13 @@
+﻿{
+  "Name": "$3,385,090,000,000 (USD…",
+  "Type": "Element",
+  "Id": "cj3H5fyUaEi1wZV1ZCL0dw",
+  "Reference": "87ukTVZLBkm-2h6w-S6zdA/cj3H5fyUaEi1wZV1ZCL0dw",
+  "ParentRef": "87ukTVZLBkm-2h6w-S6zdA/RAm66dUFkUSFxhekHRyvsQ",
+  "Created": "2024-11-03T09:48:59.6285735Z",
+  "Updated": "2024-11-03T09:48:59.6285735Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
